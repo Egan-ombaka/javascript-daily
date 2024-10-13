@@ -1,0 +1,1 @@
+document.getElementById("eganhsDescription").innerHTML = 5 + 6;
